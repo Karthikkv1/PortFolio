@@ -1,0 +1,12 @@
+.App{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.user{
+    width: 20%;
+    padding: 20px;
+    margin: 10px;
+    background-color: gray;
+}
